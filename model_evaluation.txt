@@ -1,0 +1,30 @@
+Model: Logistic Regression
+Accuracy: 0.9867483296213808
+Classification Report:
+              precision    recall  f1-score   support
+
+        fake       0.99      0.99      0.99      4733
+        real       0.98      0.99      0.99      4247
+
+    accuracy                           0.99      8980
+   macro avg       0.99      0.99      0.99      8980
+weighted avg       0.99      0.99      0.99      8980
+
+
+==================================================
+
+Model: Naive Bayes
+Accuracy: 0.927728285077951
+Classification Report:
+              precision    recall  f1-score   support
+
+        fake       0.93      0.94      0.93      4733
+        real       0.93      0.92      0.92      4247
+
+    accuracy                           0.93      8980
+   macro avg       0.93      0.93      0.93      8980
+weighted avg       0.93      0.93      0.93      8980
+
+
+==================================================
+
